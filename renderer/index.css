@@ -1,0 +1,11 @@
+#tracksList .col-2 .fas:hover {
+  cursor: pointer;
+}
+
+.status {
+  background-color: aquamarine;
+}
+
+.progress {
+  height: 30px;
+}
